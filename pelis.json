@@ -1,0 +1,70 @@
+[
+  {
+    "title": "A Bronx Tale",
+    "rating": 7.8,
+    "tags": [
+      "Crime",
+      "Drama"
+    ]
+  },
+  {
+    "title": "A League of Their Own",
+    "rating": 7.3,
+    "tags": [
+      "Comedy",
+      "Drama",
+      "Sport"
+    ]
+  },
+  {
+    "title": "A Nightmare on Elm Street",
+    "rating": 7.4,
+    "tags": [
+      "Horror"
+    ]
+  },
+  {
+    "title": "A Time to Kill",
+    "rating": 7.5,
+    "tags": [
+      "Crime",
+      "Drama",
+      "Thriller"
+    ]
+  },
+  {
+    "title": "Amistad",
+    "rating": 7.3,
+    "tags": [
+      "Biography",
+      "Drama",
+      "History"
+    ]
+  },
+  {
+    "title": "Anaconda",
+    "rating": 4.9,
+    "tags": [
+      "Action",
+      "Adventure",
+      "Horror"
+    ]
+  },
+  {
+    "title": "Angels in the Outfield",
+    "rating": 6.2,
+    "tags": [
+      "Comedy",
+      "Drama",
+      "Family"
+    ]
+  },
+  {
+    "title": "Awakenings",
+    "rating": 7.8,
+    "tags": [
+      "Biography",
+      "Drama"
+    ]
+  }
+]
